@@ -66,6 +66,14 @@ Thank for their excellent works.
 If you find our codes or models useful, please consider to give us a star or cite with:
 
 ```
-
+@misc{https://doi.org/10.48550/arxiv.2302.09808,
+  doi = {10.48550/ARXIV.2302.09808},
+  url = {https://arxiv.org/abs/2302.09808},
+  author = {Zhao, Xiaoyu and Chen, Xiaoqian and Gong, Zhiqiang and Zhou, Weien and Yao, Wen and Zhang, Yunyang},
+  title = {RecFNO: a resolution-invariant flow and heat field reconstruction method from sparse observations via Fourier neural operator}, 
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
 ```
 
